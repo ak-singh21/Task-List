@@ -1,7 +1,7 @@
-# To-Do List Application
+# Task List Application
 
 ## Overview
-This is a simple  To-Do List application built using Java. It allows users to manage tasks by adding, deleting, and viewing them. The tasks are stored in an `ArrayList` and can be changed through a simple menu interface.
+This is a simple  Task List application built using Java. It allows users to manage tasks by adding, deleting, and viewing them. The tasks are stored in an `ArrayList` and can be changed through a simple menu interface.
 
 ## Features
 - **Add a Task**: Users can input new tasks to add to their to-do list.
